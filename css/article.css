@@ -1,0 +1,63 @@
+.article {
+
+}
+
+.article__header {
+  padding: 10px;
+  color: rgb(255, 230, 0);
+  background-color: red;
+}
+
+.article__LowerHeader {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ffffff;
+  outline: 5px double rgb(0, 0, 0);
+  color: aliceblue;
+  background-color: black;
+}
+
+.article__members {
+  color: rgb(226, 43, 52);
+}
+
+.article__button {
+  background: rgb(179, 179, 179);
+  color: white;
+  margin: 5px auto;
+}
+
+.article__table--Cell:hover {
+  background-color: rgb(241, 114, 114);
+}
+
+.article__table--Cell {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: center;
+}
+.article__table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.article__table--header {
+  padding: 15px;
+  border: 1px solid #000000;
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 238, 6);
+}
+
+.article__container {
+  overflow-x: auto;
+}
+
+.article__LowestHeader {
+  background-color: rgb(218, 218, 218);
+  text-align: center;
+  border: 2px double rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 5px;
+  -webkit-box-shadow: inset -11px -13px 30px 2px rgba(167, 167, 167, 1);
+  -moz-box-shadow: inset -11px -13px 30px 2px rgba(167, 167, 167, 1);
+  box-shadow: inset -11px -13px 30px 2px rgb(250, 56, 56);
+}

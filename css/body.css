@@ -1,0 +1,11 @@
+.body {
+  font-family: "Kanit", sans-serif;
+  font-size: 18px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.body__dark {
+  background-color: #4e4e4e;
+  color: antiquewhite;
+}
